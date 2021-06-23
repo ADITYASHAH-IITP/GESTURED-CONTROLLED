@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"R1, R3, R4, R5, R2",5," Flex Sensor"
+"BAT1, BAT2",2," 9V Battery"
+"U1",1," Arduino Uno R3"
+"U2",1," LCD 16 x 2 "
+"Rpot1",1,"250 kΩ Potentiometer"
+"R6",1,"220 Ω Resistor"
+"R7, R8, R9, R10, R11",5,"100 Ω Resistor"
+"U4, U3, U5, U6, U7",5," 741 Operational Amplifier"
+"R14, R15, R12, R13, R16, R17, R18, R19, R20, R21",10,"1 kΩ Resistor"
+"M1",1," DC Motor"
